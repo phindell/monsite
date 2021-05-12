@@ -17,7 +17,7 @@
     "@types/react-spinkit": "^3.0.6",
     "@types/react-transition-group": "^4.4.0",
     "autoprefixer": "^9",
-    "postcss": "^7",
+    "postcss": "^8",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
